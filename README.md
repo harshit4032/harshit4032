@@ -53,7 +53,9 @@ I am a **final-year B.Tech student in Electrical Engineering at NIT Kurukshetra*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-📧 [Email](mailto:harshitwork4032@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/harshit-athwal-163272219) | 🏛️ [GitHub](https://github.com/harshit4032)  
+  
+📧 [Email](mailto:harshitwork4032@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/harshit-athwal-163272219) | 🏛️ [GitHub](https://github.com/harshit4032)
+
 </p>
 
 </div>
