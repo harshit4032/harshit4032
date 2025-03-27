@@ -2,11 +2,12 @@
   
 # **Harshit**
 ## **Deep Learning & AI Researcher | LLMs | Generative AI | CV & NLP**  
+ **AI Enthusiast | Researcher | Developer** 
 
  </div>
 <div align="justify">
-  
- **AI Enthusiast | Researcher | Developer**  
+
+
 
 ### **👋 Introduction**  
 I am a **final-year B.Tech student in Electrical Engineering at NIT Kurukshetra** with a strong passion for **Deep Learning, Generative AI, and Autonomous Agents**. My expertise lies in **building AI models for Computer Vision, NLP, and Reinforcement Learning**, with hands-on experience in **LLMs, diffusion models, and optimization techniques**. I have worked on research projects in **bioacoustics, time-series analysis, and autonomous AI agents** and strive to develop **scalable, efficient, and high-impact AI solutions**.  
