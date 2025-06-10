@@ -1,7 +1,7 @@
 <div align="center">
   
 # **Harshit**
-## **Deep Learning & AI Researcher | LLMs | Generative AI | CV & NLP**  
+## **Deep Learning & AI Researcher | LLMs | Generative AI | CV & DRL**  
  **AI Enthusiast | Researcher | Developer** 
 
  </div>
