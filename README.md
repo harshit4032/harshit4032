@@ -17,9 +17,9 @@ I am a **final-year B.Tech student in Electrical Engineering at NIT Kurukshetra*
   - Developed **state-of-the-art deep learning models** (AccNet, CNNs, ViTs) for **bioacoustic classification**.  
   - Worked on **time-frequency representations like cochleagrams** to analyze beehive health.  
   - Applied **model pruning, quantization, and knowledge distillation** to reduce model size by **91% with minimal accuracy loss**.  
-- **AI/DL Intern at IIT Ropar iHub**  
+<!-- - **AI/DL at IIT Ropar iHub**  
   - Designed **CNN-based models for bioacoustics** and explored **self-supervised learning**.  
-  - Applied **ViTs, Transformers, and state-of-the-art deep learning techniques** for high-accuracy sound classification.  
+  - Applied **ViTs, Transformers, and state-of-the-art deep learning techniques** for high-accuracy sound classification.  -->
 
 ### **💡 Notable Projects**  
 - **[Agentic LLM for Autonomous Shopping](https://github.com/harshit4032/Agentic_LLM-for-Shopping)**  
@@ -30,9 +30,7 @@ I am a **final-year B.Tech student in Electrical Engineering at NIT Kurukshetra*
 - **[MuJoCoAI](https://github.com/harshit4032/MuJoCoAI)**  
   - Implemented **DQN, A3C, and TD3 reinforcement learning models** for decision-making in **MuJoCo environments** (Ant, Half-Cheetah, Humanoid).  
 - **[Real-Time Sign Language Recognition](https://github.com/harshit4032/Sign-Language-Recognition)**  
-  - Built an **LSTM-based model using MediaPipe for holistic keypoint extraction** to recognize sign language in real-time.  
-- **[Facial Recognition using Siamese Networks](https://github.com/harshit4032/Facial-Recognition-Siamese)**  
-  - Developed a **face recognition system using a Siamese network**, optimized with **contrastive loss for high accuracy**.  
+  - Built an **LSTM-based model using MediaPipe for holistic keypoint extraction** to recognize sign language in real-time.   
 
 ### **⚡ Technical Expertise**  
 <h3 align="left">Languages and Tools:</h3>
@@ -46,15 +44,16 @@ I am a **final-year B.Tech student in Electrical Engineering at NIT Kurukshetra*
  
 - **Deep Learning & AI:** PyTorch, TensorFlow, Keras, OpenAI API  
 - **Computer Vision & NLP:** OpenCV, Transformers, YOLO, Diffusion Models  
-- **Reinforcement Learning:** DQN, A3C, PPO, MuJoCo  
+- **Reinforcement Learning:** DQN, A3C, PPO  
 - **Programming:** Python, C++, MATLAB  
 - **Developer Tools:** Git, Jupyter, VS Code, PyCharm  
-- **Model Optimization:** Pruning, Quantization, LoRA, Distillation  
+- **Model Optimization:** Pruning, Quantization, LoRA, Distillation 
 
 ### **🏆 Achievements & Leadership**  
 - **Winner – Smart India Hackathon 2023** (AI Developer & Team Lead)  
 - **Research Intern – CSIR-CSIO** (Deep Learning for Bioacoustics)  
-- **AI/DL – IIT Ropar iHub** (Self-Supervised AI)  
+- **AI/DL – IIT Ropar iHub** (Self-Supervised AI)
+- **UG Reseacher - NIT, Kurukshetra** (Time-Series Forecasting)  
 - Volunteered at **Embedded Systems & Robotics Club, NIT Kurukshetra**  
 
 ### **📌 Let’s Connect**  
